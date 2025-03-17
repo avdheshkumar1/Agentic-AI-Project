@@ -3,6 +3,6 @@ langgraph
 langchain_community
 langchain_core
 langchain_groq
-langchain-openapi
+langchain_openai
 faiss-cpu
 streamlit
